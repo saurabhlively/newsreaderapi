@@ -1,0 +1,1 @@
+This app access news about particular topic from newsapi.org
